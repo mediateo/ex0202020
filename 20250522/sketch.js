@@ -5,7 +5,7 @@ let cnv;
 
 function setup() {
   cnv = createCanvas(windowWidth, windowHeight);
-  sliderRed = createSlider(0, 255, 10);
+  sliderRed = createSlider(0, 255, 30);
   sliderGreen = createSlider(0, 255, 10);
   sliderBlue = createSlider(0, 255, 10);
 
